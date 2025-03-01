@@ -1,9 +1,8 @@
+import HomePage from "@/components/ui-custom/Home/Home"; 
 export default function Home() {
   return (
     <>
-      <h1 className="">
-        Welcome to my portfolio
-      </h1>
+      <HomePage />
     </>
   );
 }

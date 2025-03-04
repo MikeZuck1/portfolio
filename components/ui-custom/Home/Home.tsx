@@ -33,10 +33,18 @@ export default function HomePage() {
 
         {/* Links */}
         <div className="flex flex-row mt-[1rem]">
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.linkedin.com/in/mike-batelahoko-585884174/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <TiSocialLinkedinCircular className="mx-6 text-[#fff] w-10 h-10" />
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/MikeZuck1"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <TiSocialGithubCircular className="mx-6 text-[#fff] w-10 h-10" />
           </a>
         </div>

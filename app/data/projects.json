@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Portfolio",
+    "description": "Mon site web personnel développé avec Next.js.",
+    "link": "https://mikelambot.dev"
+  },
+  {
+    "title": "Blouvy",
+    "description": "Un site qui permet aux utilisateurs de réserver leurs chauffeurs de taxi privé moderne avec Astro.js et Firebase.",
+    "link": "https://github.com/MikeZuck1/ecommerce-app"
+  },
+  {
+    "title": "Myga",
+    "description": "Dans le cadre de mes études, j'ai dû créer un site vitrine pour un jeune entrepreneur dans le domaine de la finance.",
+    "link": "https://github.com/MikeZuck1/admin-dashboard"
+  },
+  {
+    "title": "Tontine",
+    "description": "Projet en cours...",
+    "link": "https://github.com/MikeZuck1/admin-dashboard"
+  }
+]

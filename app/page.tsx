@@ -1,5 +1,5 @@
-import HomePage from "@/components/ui-custom/Home/Home";
-import Navigation from "@/components/ui-custom/Navbar/Navbar";
+import HomePage from "@/app/home/page";
+import Navigation from "@/app/components/Navbar";
 export default function Home() {
   return (
     <>

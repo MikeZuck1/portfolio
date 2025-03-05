@@ -1,7 +1,9 @@
 export default function Skills() {
   return (
     <>
-      <h1>Skills !</h1>
+      <section className="">
+        <h1 className="text-[#fff]">Skills</h1>
+      </section>
     </>
   );
 }
